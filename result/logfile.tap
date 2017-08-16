@@ -1,0 +1,5 @@
+TAP version 13
+ok 1 - MasterCard\Api\P2m\AllTest::test_351_CreatePayment_NON_TOKENIZED
+ok 2 - MasterCard\Api\P2m\AllTest::test_353_GetMerchantTransferById_NON_TOKENIZED
+ok 3 - MasterCard\Api\P2m\AllTest::test_355_GetTransferByRef_NON_TOKENIZED
+1..3

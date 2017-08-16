@@ -1,0 +1,5 @@
+MasterCard\Api\P2m\All
+ [x] 351 CreatePayment NON TOKENIZED
+ [x] 353 GetMerchantTransferById NON TOKENIZED
+ [x] 355 GetTransferByRef NON TOKENIZED
+
