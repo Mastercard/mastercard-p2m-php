@@ -1,0 +1,61 @@
+{
+    "event": "suiteStart",
+    "suite": "Application Test Suite",
+    "tests": 4
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\P2m\\AllTest",
+    "tests": 4
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\P2m\\AllTest",
+    "test": "MasterCard\\Api\\P2m\\AllTest::test_351_CreatePayment_NON_TOKENIZED"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\P2m\\AllTest",
+    "test": "MasterCard\\Api\\P2m\\AllTest::test_351_CreatePayment_NON_TOKENIZED",
+    "status": "pass",
+    "time": 0.62716698646545,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\P2m\\AllTest",
+    "test": "MasterCard\\Api\\P2m\\AllTest::test_353_GetMerchantTransferById_NON_TOKENIZED"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\P2m\\AllTest",
+    "test": "MasterCard\\Api\\P2m\\AllTest::test_353_GetMerchantTransferById_NON_TOKENIZED",
+    "status": "pass",
+    "time": 0.28501391410828,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\P2m\\AllTest",
+    "test": "MasterCard\\Api\\P2m\\AllTest::test_355_GetTransferByRef_NON_TOKENIZED"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\P2m\\AllTest",
+    "test": "MasterCard\\Api\\P2m\\AllTest::test_355_GetTransferByRef_NON_TOKENIZED",
+    "status": "pass",
+    "time": 0.3463351726532,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\P2m\\AllTest",
+    "test": "MasterCard\\Api\\P2m\\AllTest::test_357_CreateTransfer"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\P2m\\AllTest",
+    "test": "MasterCard\\Api\\P2m\\AllTest::test_357_CreateTransfer",
+    "status": "pass",
+    "time": 0.50871109962463,
+    "trace": [],
+    "message": "",
+    "output": ""
+}
