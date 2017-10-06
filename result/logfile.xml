@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Application Test Suite" tests="4" assertions="185" failures="0" errors="0" time="2.566671">
+    <testsuite name="MasterCard\Api\P2m\AllTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-SendP2M-Php/workspace/generated-code/p2m/php/sdk/Test/MasterCard/Api/P2m/AllTest.php" tests="4" assertions="185" failures="0" errors="0" time="2.566671">
+      <testcase name="test_351_CreatePayment_NON_TOKENIZED" class="MasterCard\Api\P2m\AllTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-SendP2M-Php/workspace/generated-code/p2m/php/sdk/Test/MasterCard/Api/P2m/AllTest.php" line="51" assertions="42" time="0.919474"/>
+      <testcase name="test_353_GetMerchantTransferById_NON_TOKENIZED" class="MasterCard\Api\P2m\AllTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-SendP2M-Php/workspace/generated-code/p2m/php/sdk/Test/MasterCard/Api/P2m/AllTest.php" line="193" assertions="40" time="0.420150"/>
+      <testcase name="test_355_GetTransferByRef_NON_TOKENIZED" class="MasterCard\Api\P2m\AllTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-SendP2M-Php/workspace/generated-code/p2m/php/sdk/Test/MasterCard/Api/P2m/AllTest.php" line="287" assertions="43" time="0.432163"/>
+      <testcase name="test_357_CreateTransfer" class="MasterCard\Api\P2m\AllTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-SendP2M-Php/workspace/generated-code/p2m/php/sdk/Test/MasterCard/Api/P2m/AllTest.php" line="383" assertions="60" time="0.794884"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
